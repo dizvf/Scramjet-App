@@ -1,0 +1,8 @@
+{
+  "name": "diz-vf-wisp",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": { "start": "node server.mjs" },
+  "dependencies": { "@mercuryworkshop/wisp-js": "0.5.3" }
+}
